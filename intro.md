@@ -14,7 +14,7 @@ Most users are unaware of:
 - What devices are connected to their network
 - Which services are publicly accessible
 - Whether those services pose security risks
-
+       
 This lack of visibility can lead to unnoticed vulnerabilities.
 
 ---
